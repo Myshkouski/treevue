@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "type-of-is": "^3.5.1"
+  },
+  "main": "tree.vue",
+  "name": "treevue",
+  "version": "0.0.1-alpha.4"
+}
